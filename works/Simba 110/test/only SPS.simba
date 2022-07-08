@@ -1,0 +1,8 @@
+program new;
+{$i SPS/lib/sps.simba}
+
+begin
+writeln('hello simba');
+
+clearDebug();
+end.
